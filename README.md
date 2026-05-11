@@ -29,4 +29,4 @@ Custom PCB designed from scratch in **KiCad**.
 **Unschool Robotics Lab** — as part of an integrated IGCSE program.
 
 ## 📅 Status
-✅ Completed and assembled
+✅ Completed and assembled — January 2026
