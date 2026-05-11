@@ -1,4 +1,4 @@
-# SaniSpray 🧴
+# SaniSpray 
 
 Automatic hand sanitizer dispenser that activates a 12V pump motor every 2 seconds 
 when a hand is detected, and stops immediately when the hand is removed. 
@@ -25,8 +25,8 @@ Custom PCB designed from scratch in **KiCad**.
 
 ![PCB Photo](pcb.jpg)
 
-## 🏫 Built At
+##  Built At
 **Unschool Robotics Lab** — as part of an integrated IGCSE program.
 
-## 📅 Status
+##  Status
 ✅ Completed and assembled — January 2026
