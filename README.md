@@ -17,9 +17,9 @@ No code. No microcontroller. Entirely analog circuit logic.
 |---|---|
 | 555 Timer IC (astable) | Generates 2-second pulses to drive the pump |
 | IR Sensor | Detects presence and removal of hand |
+| Relay Module | Allows 555 timer to switch the 12V pump motor |
 | 12V Pump Motor | Dispenses sanitizer spray |
 | Custom PCB (KiCad) | Houses the full circuit |
-
 ## 📐 PCB Design
 Custom PCB designed from scratch in **KiCad**.
 
